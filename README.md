@@ -11,7 +11,7 @@ npm install --save react-bootstrap-storybook
 ```
 
 ## Demo
-<a href="https://bonnv79.github.io/react-bootstrap-storybook/">Click open demo<a/>
+<a href="https://hschhaniyara.github.io/react-bootstrap-storybook/?path=/story/storybook-introduction--page">Click open demo<a/>
 
 ## Getting Started with Create React App
 
